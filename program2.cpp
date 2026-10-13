@@ -1,5 +1,5 @@
 #include <iostream>
 int main() {
-std::cout << "Hello, Git!";
+std::cout << "kocham mojego pieska i papużkę";
 return 0;
 }
